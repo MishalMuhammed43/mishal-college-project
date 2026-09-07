@@ -1,1 +1,1 @@
-# mishal-collage-project
+# mishal-college-project
